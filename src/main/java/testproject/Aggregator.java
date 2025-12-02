@@ -17,7 +17,7 @@ class Aggregator {
      * @return sum.
      */
     double getSum() {
-        return 0;
+        return sum;
     }
 
     /**
